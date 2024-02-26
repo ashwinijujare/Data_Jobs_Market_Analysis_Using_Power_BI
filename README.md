@@ -8,4 +8,4 @@ Analysis on the job market data specific to data related jobs and visualizing th
 - Included a mobile version as well.
 
 Link to the report:
-[https://app.powerbi.com/view?r=eyJrIjoiYmYwOTI5ZjktOGQ1MS00NDc4LWEzOTEtNmJlOGYwZjk0N2JlIiwidCI6IjQ0NjQ1YjhiLWRhYzctNDM1OS05MmNjLTdmM2JjZWE1YzVlNiJ9](https://app.powerbi.com/view?r=eyJrIjoiYmYwOTI5ZjktOGQ1MS00NDc4LWEzOTEtNmJlOGYwZjk0N2JlIiwidCI6IjQ0NjQ1YjhiLWRhYzctNDM1OS05MmNjLTdmM2JjZWE1YzVlNiJ9)
+https://app.powerbi.com/view?r=eyJrIjoiYmYwOTI5ZjktOGQ1MS00NDc4LWEzOTEtNmJlOGYwZjk0N2JlIiwidCI6IjQ0NjQ1YjhiLWRhYzctNDM1OS05MmNjLTdmM2JjZWE1YzVlNiJ9
